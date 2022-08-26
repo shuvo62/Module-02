@@ -1,0 +1,19 @@
+.main{
+    background: whitesmoke;
+    
+}
+#author{
+    color: tomato;
+}
+h1{
+    text-align: center;
+}
+p{
+    border: solid blueviolet 10px;
+    padding: 10px;
+}
+.child{
+    background: red;
+    margin: 50px;
+    
+}
